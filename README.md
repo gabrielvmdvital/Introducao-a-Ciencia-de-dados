@@ -1,1 +1,1 @@
-# cienciadedados
+Repositório dedicado a disciplina Introdução a Cicência de Dados oferecida pelo prof. Dr. Marcos Martins do departamento de Eletrônica e sistemas da UFPE, semestre de 2020.2
